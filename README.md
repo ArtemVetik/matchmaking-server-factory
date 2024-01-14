@@ -1,4 +1,4 @@
-## Docker Game Server Factory
+## matchmaking-server-factory
 
 Modified solution from this repository: https://github.com/ArtemVetik/docker-gameserver-factory.
 
