@@ -4,7 +4,7 @@ namespace WebApi.Model
 {
     public class Server
     {
-        [Required]
+        [Key]
         public string MatchId { get; set; }
 
         [Required]
